@@ -1,2 +1,3 @@
 .moonraker.conf.bkp
-printer*.cfg
+printer-*.cfg
+printer.cfg
